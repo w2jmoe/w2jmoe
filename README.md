@@ -24,9 +24,9 @@
 
 ## ⏱️ Project Timeline
 
-- **Time bracelet / 时间环** (2025)　　-　AI hardware concept: voice-driven automated app operations.
-- **Time Pearl / 时间宝** (2025)　　 　-　Time visualization + booking platform.
-- **Future Vibes / 未来共鸣** (2024) 　-　E-commerce for custom AI-generated art transactions.
+- **Time bracelet / 时间环** (2025)　　　　　　-　AI hardware concept: voice-driven automated app operations.
+- **Time Pearl / 时间宝** (2025)　　 　　　　　-　Time visualization + booking platform.
+- **Future Vibes / 未来共鸣** (2024) 　　　　　-　E-commerce for custom AI-generated art transactions.
 
 ---
 
