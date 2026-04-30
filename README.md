@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jay Wu (武文杰)
 
-<!--
-**w2jmoe/w2jmoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solo founder & **FDE** (Forward Deployed Engineer).
 
-Here are some ideas to get you started:
+**Mission:** Shortening the distance from Intent to Result.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **[WisePick Decision API](https://zx.wishweaver.top/)** — The decision layer for the AI era.
+- **Wish Weaver (心愿编织者)** — A social tool for sharing intentions.
+
+## Focus
+
+AI-assisted full-stack development · decision routing · agentic workflows
+
+## Contact
+
+[w2jmoe@gmail.com](mailto:w2jmoe@gmail.com)
