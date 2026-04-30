@@ -10,63 +10,34 @@
 
 ---
 
-## Hello
-
-I build systems that turn **intent** into **outcomes**—with as little friction between the two as possible.  
-Not chasing novelty for its own sake; interested in the layer where choices actually get made.
-
----
-
-## Mission
-
-**Shortening the distance from Intent to Result.**
-
-If that reads like a product thesis, good—that’s the point.
+**Mission:** Shortening the distance from Intent to Result.
 
 ---
 
 ## 🚀 What I'm Building
 
-**[WisePick Decision API](https://zx.wishweaver.top/)** — the **decision layer** for AI and agents.  
-Routing under uncertainty, one **optimal path** instead of a noisy list of “options.” (Agent anguish, meet relief.) 🤺✨️
-
-**Wish Weaver (心愿编织者)** — a social surface for **sharing intentions**. Lighter than a platform pitch; more honest than another feed.
-
-Infrastructure-shaped mindset: small surfaces today, **long-term substrate** tomorrow.
+- **WisePick Decision API** (2026) — Decision infrastructure for AI agents. **Goal in, tool out.**
+- **[WisePick](https://zx.wishweaver.top/)** (2026) — Tool decision engine for humans navigating the AI era.**One Step to the Best!**
+- **Wish Weaver** (心愿编织者) (2025) — Social mini-program for **proactive care** and sharing intentions within important relationships.
 
 ---
 
-## 🧠 Thinking / Philosophy
+## ⏱️ Project Timeline
 
-The AI era is less an **information** problem than a **decision** problem.  
-We are flooded with capability; what we lack is **commitment**—a clear “this one” when it matters.
-
-The world does not suffer from a shortage of tools. It suffers from a shortage of **being chosen**: the moment something becomes *the* path, not one more tab in the stack.
-
-I care about making that moment reliable—**humane**, not hypey. A slightly better default for how agents and people move through complexity.
+- **Time Ring** (2025) — AI hardware concept: voice-driven automated app operations.
+- **Time Treasure** (2025) — Time visualization + booking platform.
+- **Future Vibes** (2024) — E-commerce for custom AI-generated art transactions.
 
 ---
 
-## ⚙️ Focus
-
-- AI-assisted full-stack (ship end-to-end, iterate where it hurts)
-- **Decision routing** — structure for “what to do next”
-- **Agent workflows** — orchestration that respects constraints
-
----
-
-## 🌱 Currently Exploring
-
-- Evaluation and guardrails when **one** answer has to be **the** answer
-- Where **social intent** meets **machine routing** (Wish Weaver × WisePick adjacency)
-- Patterns that feel boring in the repo and **essential** in production
+**🧠 Lens:**  
+The bottleneck isn’t information—it’s **decision**.  
+Stack: **full-stack + AI**, decision routing, agent workflows. **One** path forward—not another menu.
 
 ---
 
 ## 🤝 Contact
 
-**Email:** [w2jmoe@gmail.com](mailto:w2jmoe@gmail.com)
-
-Not hiring mode—**building mode.** If you’re working on the same layer (decisions, agents, infrastructure), say hi. 🍉٩(๑>◡<๑)۶ 
+[w2jmoe@gmail.com](mailto:w2jmoe@gmail.com) · Building, not browsing job boards. Same layer? Say hi. 🍉٩(๑>◡<๑)۶
 
 ---
