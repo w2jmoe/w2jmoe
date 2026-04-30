@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jay Wu · 武文杰
+# Jay Wu · 武文杰 😊
 
 **Solo founder · Forward Deployed Engineer**
 
