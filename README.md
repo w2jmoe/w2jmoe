@@ -16,7 +16,7 @@
 
 ## 🚀 What I'm Building
 
-- **WisePick Decision API / 智选API** (2026) 　-　Decision infrastructure for AI agents. **Intent In, Decision Out.**
+- **[WisePick Decision API / 智选API](https://github.com/w2jmoe/WisePick)** (2026) 　-　Decision infrastructure for AI agents. **Intent In, Decision Out.**
 - **[WisePick / 智选](https://zx.wishweaver.top/)** (2026) 　　　　　　　　　-　Tool decision engine for humans navigating the AI era.**One Step to the Best!**
 - **WishWeaver / 心愿编织者** (2025) 　　　　 -　Social mini-program for **proactive care** and sharing intentions within important relationships.
 
