@@ -17,7 +17,7 @@
 ## 🚀 What I'm Building
 
 - **[WisePick Decision API / 智选API](https://github.com/w2jmoe/WisePick)** (2026) 　-　Decision infrastructure for AI agents. **Intent In, Decision Out.**
-- 🚀🚀🚀 Open-source progress: 26%. Full release expected May 10, 2026.
+- 🚀🚀🚀 Open-source progress: 66%. Full release expected May 10, 2026.
 - **[WisePick / 智选](https://zx.wishweaver.top/)** (2026) 　　　　　　　　　-　Tool decision engine for humans navigating the AI era.**One Step to the Best!**
 - **WishWeaver / 心愿编织者** (2025) 　　　　 -　Social mini-program for **proactive care** and sharing intentions within important relationships.
 
