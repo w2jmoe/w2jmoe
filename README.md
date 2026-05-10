@@ -16,7 +16,7 @@
 
 ## 🚀 What I'm Building
 
-- **[WisePick Decision API / 智选API](https://github.com/w2jmoe/WisePick)** (2026) 　-　[Open Source🤗] Capability Routing Infrastructure for AI Agents. **Intent In, Executable Path Out.**
+- **[WisePick Decision API / 智选API](https://github.com/w2jmoe/WisePick)** (2026) 　-　[Open Source🤗] The Deterministic Scaffold for AI Agents. **Intent In, 0.0s Executable Path Out.**
 - **[WisePick / 智选](https://zx.wishweaver.top/)** (2026) 　　　　　　　　　-　Tool decision engine for humans navigating the AI era.**One Step to the Best!**
 - **WishWeaver / 心愿编织者** (2025) 　　　　 -　Social mini-program for **proactive care** and sharing intentions within important relationships.
 
