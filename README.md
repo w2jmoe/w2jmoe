@@ -10,7 +10,7 @@
 
 ---
 
-**Mission:** Shortening the distance from Intent to Result.　Current Agents are searching for keys; we put the tool at their fingertips.
+**Building AI products from idea to validation.**
 
 ---
 
