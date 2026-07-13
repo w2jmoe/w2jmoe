@@ -12,6 +12,8 @@
 
 **Building AI products from idea to validation.**
 
+👉🏻 Explore my portfolio, featured projects, resume, and contact: https://w2jmoe.github.io/jay-portfolio
+
 ---
 
 ## 🚀 What I'm Building
