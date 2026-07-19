@@ -2,7 +2,7 @@
 
 # Jay Wu · 武文杰 🌸 (●°u°●) 
 
-**Solo founder · Forward Deployed Engineer**
+**AI Native Engineer · Founding Engineer**
 
 *Shipping infrastructure, not slides.*
 
